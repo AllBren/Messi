@@ -1,0 +1,42 @@
+body {
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
+    overflow-y: auto;
+}
+
+.jumbotron {
+    
+    text-shadow: 2px 2px 4px #000000;
+    background-color: black;
+    color: white;
+}
+
+.card {
+    background-color: #fa6a50;
+    color: white;
+    max-width: 700px;
+    text-align: center;
+}
+.list-group{
+   
+
+}
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+.jumbotron img {
+    max-width: 100%; /* Ajusta a largura máxima da imagem */
+    height: auto; /* Mantém a proporção da imagem */
+    display: inline; /* Exibe a imagem como um bloco */
+}
+
+
+h2{
+    text-align: center
+}
